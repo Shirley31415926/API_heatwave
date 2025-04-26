@@ -24,4 +24,4 @@ This study analyzes public responses to heatwaves from June to September in 2023
 
 In this project, Xiaolin was responsible for the development of the Bluesky platform API, the extraction of heatwave-related posts, as well as conducting topic modelling and sentiment analysis.
 Lixuan was responsible for the collection and organization of temperature data for the UK, USA, Europe, and the Northern Hemisphere, the creation of statistical plots for correlation analysis, and the writing of the Methods section.
-Although specific tasks were divided, the overall coding and data analysis were carried out collaboratively by both team members.
+Although specific tasks were divided, the overall coding and data analysis were carried out and investigatied collaboratively by both team members.
