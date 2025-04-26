@@ -19,3 +19,5 @@ This study analyzes public responses to heatwaves from June to September in 2023
 06为sentimental analysis 的correlation ，还需要更改统计方法和进行进一步的绘制ing
 
 07为topic modelling （cluster analysis）
+
+在readme中绘制图表，表明每个数据文件夹对应了什么内容
