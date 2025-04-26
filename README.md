@@ -4,18 +4,18 @@ This study analyzes public responses to heatwaves from June to September in 2023
 
 对我们的数据排个序叭
 
-01是2023和2024年heatwave post frequency 获取
+01是2023和2024年heatwave post frequency 获取（整理完毕）
 
-02是2023和2024年EU，UK，USA 三个地区气温获取的资料
+02是2023和2024年EU，UK，USA 三个地区气温获取的资料（整理完毕）（需要额外标注，因为是在R language环境下搭载，所以会标红。）
 
-03是将EU，UK，USA三个地区的气温数据和heatwave post frequency 进行correlation时间相关性分析
+03是将EU，UK，USA三个地区的气温数据和heatwave post frequency 进行correlation时间相关性分析（整理完毕）
 
-04是北半球范围内的2018-2024年的数据获取和分析，以及温度和湿度异常值数据的获取资料。
+04是北半球范围内的2018-2024年的数据获取和分析，以及温度和湿度异常值数据的获取资料（整理完毕）
 
-05是sentimental analysis
+05是sentimental analysis （整理完毕）
 
-06为sentimental analysis 的correlation
+剩下的等待整理的东西
 
-后续需要将主题建模放上去，并进行分析（shirley～）
+06为sentimental analysis 的correlation ，还需要更改统计方法和进行进一步的绘制ing
 
-02号，我正在编辑，所有的图片已经完成，正在编写为什么选取这几个地区的代码文案，有个问题是代码一直标注为红色，所以暂时这个问题还没有解决。
+07为topic modelling （cluster analysis）
