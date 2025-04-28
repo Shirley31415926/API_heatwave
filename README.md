@@ -16,7 +16,7 @@ This study analyzes public responses to heatwaves from June to September in 2023
 
 06为sentimental analysis 的correlation ，还需要更改统计方法和进行进一步的绘制ing (进行中)
 
-07A 为topic modelling （整理完毕）
+07A 为topic modelling （尚未，仍存在聚类approx. bound较低以及可视化的问题）
 
 07B output of topic modelling （整理完毕）
 
