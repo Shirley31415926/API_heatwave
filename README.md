@@ -13,4 +13,5 @@ The study is structured as follows. File 01 presents the collection of heatwave-
 
 
 **_Author Contributions_**
+
 The overall coding and data analysis were collaboratively executed and discussed by both authors. Xiaolin was responsible for the development of the Bluesky platform API, the extraction of heatwave-related posts, and the implementation of sentiment analysis and topic modeling. Lixuan was responsible for acquiring and analyzing temperature data for the UK, USA, and Europe, as well as ERA5-based temperature data for the Northern Hemisphere. She also conducted time series visualization and statistical analysis, and prepared the documentation for the "API Execution and Visualization Toolkit."
