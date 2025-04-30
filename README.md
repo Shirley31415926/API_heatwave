@@ -3,7 +3,7 @@
 This study analyzes public responses to heatwaves from June to September in 2023 and 2024 using Bluesky posts. We evaluate public attention and sentiment through post frequency and sentiment analysis, and trace how discussion topics evolved over time using topic modeling.
 
 
-**_Reading Structure**_
+**_Reading Structure_**
 
 Please follow **_API Execution and Visualization Tookit.pdf_** as an instruction and have a look at these files if you want to find the relative code  .
 
