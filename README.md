@@ -4,21 +4,9 @@ This study analyzes public responses to heatwaves from June to September in 2023
 
 Reading Structure:
 Please follow **_API Execution and Visualization Tookit.pdf_** as an instruction and have a look at these files if you want to find the relative code  .
-01是2023和2024年heatwave post frequency 获取
-02是2023和2024年EU，UK，USA 三个地区气温获取的资料（因为是在R language环境下搭载，所以会标红。）
 
-03是将EU，UK，USA三个地区的气温数据和heatwave post frequency 进行correlation时间相关性分析
 
-04是北半球范围内的2018-2024年的数据获取和分析，以及温度和湿度异常值数据的获取资料
-
-05是sentimental analysis 
-
-06为sentimental analysis 的correlation ，还需要更改统计方法和进行进一步的绘制ing 
-
-07A topic modelling with BERTopic
-
-07B topic modelling with STM
-
+The study is structured as follows. File 01 presents the collection of heatwave-related post frequencies from social media platforms for the years 2023 and 2024. File 02 details the acquisition of temperature data for the EU, UK, and USA regions, conducted in the R programming environment. File 03 investigates the temporal correlations between regional temperature variations and heatwave post frequencies. File 04 extends the analysis to a hemispheric scale by compiling temperature and humidity anomaly data from 2018 to 2024. File 05 focuses on sentiment analysis of heatwave-related posts, while File 06 offers a statistical evaluation of the sentiment data. Finally, Files 07A and 07B apply topic modelling techniques—BERTopic and Structural Topic Modeling (STM), respectively—to explore thematic structures within the discourse. Together, these components provide a comprehensive assessment of the relationship between climatic stress and digital public response across regions and time.
 
 
 
